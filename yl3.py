@@ -7,4 +7,4 @@ n = input("Sisesta täisarv n vahemikus 1-9: ")
 nn = n + n
 nnn = n + n + n
 value = int(n) + int(nn) + int(nnn)
-print(n + "+" + nn, "+", nnn, "=", value)
+print(n + "+" + nn + "+" + nnn, "=", value)
